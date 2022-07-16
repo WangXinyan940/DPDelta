@@ -68,3 +68,4 @@ def runMD(args):
 
 def main():
     args = parser()
+    runMD(args)
