@@ -69,3 +69,6 @@ def runMD(args):
 def main():
     args = parser()
     runMD(args)
+
+if __name__ == "__main__":
+    main()
